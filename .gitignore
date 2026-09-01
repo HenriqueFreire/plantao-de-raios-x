@@ -1,0 +1,24 @@
+# Ren'Py compiled script files
+*.rpyc
+*.rpyb
+*.rpymc
+
+# Ren'Py saves and cache
+game/cache/
+game/saves/
+log.txt
+errors.txt
+traceback.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environment & OS
+.env
+.venv
+.DS_Store
+Thumbs.db
+.vscode/
