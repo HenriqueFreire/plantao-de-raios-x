@@ -26,8 +26,8 @@ Permite ao estudante praticar conteúdos pontuais das UCs do Senac através de m
   * Normas CNEN NN 3.01 e ANVISA RDC 611.
   * Limites de dose e regras de radioproteção (ALARA, tempo, distância e blindagem).
 
-### Modo 2: Modo Simulação (Plantão com o Ravi)
-Fluxo narrativo completo no Hospital Santa Magnólia, onde o estagiário Ravi atende pacientes consecutivos em 6 etapas clínicas:
+### Modo 2: Modo Estágio (Plantão com o Ravi)
+Fluxo narrativo completo no Hospital Santa Magnólia, onde o estagiário Ravi vivencia o seu estágio supervisionado atendendo pacientes consecutivos em 6 etapas clínicas:
 1. **Higienização dos Equipamentos:** Preparação e desinfecção da sala.
 2. **Análise do Pedido Médico:** Leitura crítica e conferência dos dados do exame.
 3. **Seleção de Parâmetros Técnicos:** Ajuste de kV, mAs, DFP e tamanho do chassi/detector.

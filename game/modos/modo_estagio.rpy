@@ -1,12 +1,12 @@
-## Modo Simulação: Plantão com o Ravi no Hospital Santa Magnólia
+## Modo Estágio: Plantão com o Ravi no Hospital Santa Magnólia
 
-label iniciar_modo_simulacao:
+label iniciar_modo_estagio:
     scene black with fade
 
     narrador "Segunda-feira, 07:45 da manhã."
     narrador "Você é {b}Ravi{/b}, estagiário no setor de radiologia do Hospital Santa Magnólia."
 
-    claudia "Bom dia, Ravi! Preparado para o seu primeiro caso do plantão?"
+    claudia "Bom dia, Ravi! Preparado para o seu plantão do estágio supervisionado?"
     ravi "Bom dia, Dra. Cláudia! Tudo pronto por aqui."
     claudia "Lembre-se da nossa regra de ouro: {i}Na radiologia, capricho não é perfeccionismo — é proteção.{/i}"
     claudia "Vamos atender os pacientes do dia seguindo o nosso protocolo de 6 etapas."

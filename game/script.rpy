@@ -19,13 +19,13 @@ label menu_selecao_modo:
     menu:
         narrador "Escolha como deseja jogar hoje:"
 
-        "🩺 Modo Simulação — Iniciar Plantão com o Ravi":
-            $ modo_escolhido = "simulacao"
-            jump iniciar_modo_simulacao
-
         "📚 Modo Estudo — Escolher por Unidade Curricular (UC)":
             $ modo_escolhido = "estudo_uc"
             jump iniciar_modo_estudo_uc
+
+        "🏥 Modo Estágio — Iniciar Plantão Supervisionado com o Ravi":
+            $ modo_escolhido = "estagio"
+            jump iniciar_modo_estagio
 
         "ℹ️ Sobre o Projeto Integrador":
             jump tela_sobre

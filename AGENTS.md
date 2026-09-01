@@ -10,7 +10,7 @@ Este arquivo fornece instruções operacionais essenciais para o Antigravity / a
 * **Tecnologias:** Ren'Py 8 (narrativa e telas) + Python 3 (lógica dos minigames e cálculos).
 * **Modos de Jogo:**
   1. **Modo Estudo por UC:** Módulos independentes e quizzes focados em cada Unidade Curricular (UC1, UC2, UC6).
-  2. **Modo Simulação:** Plantão completo no Hospital Santa Magnólia acompanhando o estagiário Ravi e a Dra. Cláudia no atendimento de pacientes.
+  2. **Modo Estágio:** Plantão supervisionado no Hospital Santa Magnólia acompanhando o estagiário Ravi e a Dra. Cláudia no atendimento de pacientes.
 
 ---
 
@@ -45,7 +45,7 @@ Este arquivo fornece instruções operacionais essenciais para o Antigravity / a
 
 ## 📂 4. Mapa da Estrutura de Código
 * `game/script.rpy` — Ponto de entrada e menu de seleção de modos.
-* `game/modos/modo_simulacao.rpy` — Fluxo da história com o protagonista Ravi.
+* `game/modos/modo_estagio.rpy` — Fluxo do estágio supervisionado com o protagonista Ravi.
 * `game/modos/modo_estudo_uc.rpy` — Hub de seleção das UCs.
 * `game/ucs/` — Módulos individuais por disciplina (`uc1/`, `uc2/`, `uc6/`).
 * `game/minigames/` — Módulos de lógica em Python e telas customizadas de minigames.
