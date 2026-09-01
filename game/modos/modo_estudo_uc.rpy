@@ -7,7 +7,7 @@ label iniciar_modo_estudo_uc:
         narrador "Selecione a Unidade Curricular que você deseja estudar:"
 
         "🧪 UC 1 — Higienização, Biossegurança e Parâmetros Técnicos (kV/mAs)":
-            jump menu_uc1
+            jump uc1_start
 
         "🦴 UC 2 — Anatomia Radiológica e Posicionamento de Extremidades":
             jump menu_uc2
