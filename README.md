@@ -67,3 +67,12 @@ nix develop -c renpy .
 1. Abra o **Ren'Py Launcher**.
 2. Adicione a pasta `plantao-de-raios-x` como diretório de projetos.
 3. Clique em **Launch Project**.
+
+---
+
+## 🌿 Diretrizes de Desenvolvimento e Git Flow
+
+Para manter o repositório organizado e profissional:
+* Consulte o guia completo em **[`GIT_FLOW.md`](file:///home/henrique/Modelos/plantao-de-raios-x/GIT_FLOW.md)** para entender a estratégia de branches (`main`, `develop`, `feat/*`, `fix/*`) e o padrão de mensagens de commit.
+* Consulte o **[`GDD.md`](file:///home/henrique/Modelos/plantao-de-raios-x/GDD.md)** para detalhes pedagógicos e mecânicas dos casos clínicos.
+
