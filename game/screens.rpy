@@ -88,7 +88,7 @@ screen choice(items):
                     size 30
                     bold True
                     color "#1abc9c"
-                    bottom_margin 25
+                null height 15
 
 ## 4. Tela de Confirmação (Sair, etc.)
 screen confirm(message, yes_action, no_action):
