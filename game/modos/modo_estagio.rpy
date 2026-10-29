@@ -7,7 +7,7 @@ label iniciar_modo_estagio:
     narrador "Você é {b}Ravi{/b}, estagiário no setor de radiologia do Hospital Santa Magnólia."
 
     claudia "Bom dia, Ravi! Preparado para o seu plantão do estágio supervisionado?"
-    ravi "Bom dia, Dra. Cláudia! Tudo pronto por aqui."
+    ravi "Bom dia, Supervisora Cláudia! Tudo pronto por aqui."
     claudia "Lembre-se da nossa regra de ouro: {i}Na radiologia, capricho não é perfeccionismo — é proteção.{/i}"
     claudia "Vamos atender os pacientes do dia seguindo o nosso protocolo de 6 etapas."
 

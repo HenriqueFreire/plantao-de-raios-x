@@ -27,6 +27,9 @@ label menu_selecao_modo:
             $ modo_escolhido = "estagio"
             jump iniciar_modo_estagio
 
+        "🛠️ Calibrador Visual de Sprites (Ajustar Posições)":
+            jump tela_calibrador
+
         "ℹ️ Sobre o Projeto Integrador":
             jump tela_sobre
 

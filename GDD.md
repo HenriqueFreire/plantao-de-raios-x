@@ -39,7 +39,7 @@ Fluxo narrativo completo no Hospital Santa Magnólia, onde o estagiário Ravi vi
 
 ## 3. Personagens Principais
 * **Ravi (Protagonista):** Estagiário do 2º semestre do curso técnico, dedicado e empático.
-* **Dra. Cláudia (Mentora):** Técnica e preceptora sênior experiente que orienta e avalia o jogador.
+* **Supervisora Cláudia (Mentora):** Técnica e preceptora sênior experiente que orienta e avalia o jogador.
 * **Pacientes:**
   1. *Seu Benedito (72 anos):* Tórax PA e Perfil (tosse persistente).
   2. *Júlia (24 anos):* Mão AP e Oblíqua (queda de bicicleta).

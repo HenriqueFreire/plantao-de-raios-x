@@ -10,7 +10,7 @@ Este arquivo fornece instruções operacionais essenciais para o Antigravity / a
 * **Tecnologias:** Ren'Py 8 (narrativa e telas) + Python 3 (lógica dos minigames e cálculos).
 * **Modos de Jogo:**
   1. **Modo Estudo por UC:** Módulos independentes e quizzes focados em cada Unidade Curricular (UC1, UC2, UC6).
-  2. **Modo Estágio:** Plantão supervisionado no Hospital Santa Magnólia acompanhando o estagiário Ravi e a Dra. Cláudia no atendimento de pacientes.
+  2. **Modo Estágio:** Plantão supervisionado no Hospital Santa Magnólia acompanhando o estagiário Ravi e a Supervisora Cláudia no atendimento de pacientes.
 
 ---
 

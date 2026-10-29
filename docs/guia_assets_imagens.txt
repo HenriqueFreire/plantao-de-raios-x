@@ -1,0 +1,26 @@
+ 1. Cenários (game/assets/backgrounds/)
+  Estes devem ter preferencialmente o tamanho da resolução do jogo (ex: 1280x720 ou 1920x1080).
+   * bg_hospital_externo.jpg: Fachada do Hospital Santa Imagem (para a introdução).
+   * bg_sala_espera.jpg: Recepção onde o Seu Benedito aguarda.
+   * bg_sala_exame.jpg: A sala de raios-X principal, onde o jogador passa a maior parte do tempo.
+   * bg_biombo.jpg: A visão de trás do biombo de chumbo, onde fica o painel de controle.
+
+  2. Personagens (game/assets/sprites/)
+  Personagens devem ser .png com fundo transparente.
+   * claudia_normal.png: Supervisora Cláudia com expressão neutra/profissional.
+   * claudia_sorrindo.png: Para momentos de acerto.
+   * claudia_preocupada.png: Para quando o jogador comete erros de proteção radiológica.
+   * benedito_normal.png: O senhor simpático de 72 anos.
+   * benedito_tosse.png: (Opcional) Ele com a mão no peito, representando a queixa clínica.
+
+  3. Radiografias (game/assets/imagens_rx/)
+   * torax_bom.png: Uma imagem de radiografia de tórax PA perfeita (clara, com bom contraste e simétrica).
+   * torax_subexposto.png: Uma imagem muito escura (quase preta), simulando falta de kV.
+   * torax_superexposto.png: Uma imagem muito clara (esbranquiçada), simulando excesso de radiação/kV.
+   * torax_posicionamento_errado.png: (Opcional) Imagem cortando o ápice pulmonar ou com o paciente rodado.
+
+  4. Interface e Itens (game/assets/ui/)
+   * pedido_benedito.png: Uma arte que simule uma folha de papel de requisição médica preenchida.
+   * check_idle.png, check_hover.png, check_selected.png: Pequenos ícones para o minigame de checklist (quadradinho vazio, realçado e com um "V").
+   * logo_jogo.png: Para o menu principal.
+

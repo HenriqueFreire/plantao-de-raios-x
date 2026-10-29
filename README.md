@@ -24,7 +24,7 @@ flowchart TD
 1. **📚 Modo Estudo por Unidade Curricular (UC):**
    * Módulos independentes e quizzes rápidos para treinar competências específicas das disciplinas do Senac sem precisar passar por toda a narrativa.
 2. **🏥 Modo Estágio (Plantão Supervisionado):**
-   * O jogador assume o papel do estagiário **Ravi** no Hospital Santa Magnólia, enfrentando o fluxo completo de atendimento de 6 etapas por paciente sob a mentoria da **Dra. Cláudia**.
+   * O jogador assume o papel do estagiário **Ravi** no Hospital Santa Magnólia, enfrentando o fluxo completo de atendimento de 6 etapas por paciente sob a mentoria da **Supervisora Cláudia**.
 
 ---
 
